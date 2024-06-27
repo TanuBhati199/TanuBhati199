@@ -1,4 +1,4 @@
-🚀 I'm a frontend developer
+🚀 I'm a frontend developer <br>
 🚀 I work with JavaScript, NodeJS,HTML and CSS
 🚀 Some other stacks I use are C, Python, C++, SQL
 🚀 Looking forward to learn some backend tool too
